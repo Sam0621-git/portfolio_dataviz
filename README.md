@@ -2,9 +2,9 @@
 
 ## 📌 Présentation du projet
 
-Portfolio DataViz est un projet d'analyse de données développé en Python autour de la préparation des données, de l'analyse exploratoire, de la visualisation interactive et de la modélisation statistique et prédictive.
+**Portfolio DataViz** est un projet d'analyse de données développé en Python autour de la **préparation des données, de l'analyse exploratoire, de la visualisation interactive et de la modélisation statistique et prédictive**.
 
-Le projet intègre une interface interactive développée avec Streamlit, permettant d'explorer les données, de visualiser différents indicateurs et d'évaluer les performances de modèles prédictifs.
+Le projet intègre une interface interactive développée avec **Streamlit**, permettant d'explorer les données, de visualiser différents indicateurs et d'évaluer les performances de modèles prédictifs.
 
 L'objectif est de mettre en œuvre une démarche complète de Data Analysis et Data Science, depuis la préparation des données jusqu'à la restitution des résultats dans une interface accessible.
 
@@ -55,13 +55,13 @@ L'analyse exploratoire permet d'étudier les principales caractéristiques des d
 * des représentations graphiques ;
 * l'identification de tendances et de différences entre groupes.
 
-Les visualisations sont produites notamment avec Matplotlib et Seaborn.
+Les visualisations sont produites notamment avec **Matplotlib** et **Seaborn**.
 
 ---
 
 ### 3. Modélisation
 
-Le projet utilise plusieurs outils de l'écosystème Scikit-learn pour construire et évaluer des modèles prédictifs.
+Le projet utilise plusieurs outils de l'écosystème **Scikit-learn** pour construire et évaluer des modèles prédictifs.
 
 Le code intègre notamment :
 
@@ -87,9 +87,9 @@ coefficients_ridge.csv
 
 Les performances des modèles sont évaluées à partir de plusieurs indicateurs, notamment :
 
-* MAE — Mean Absolute Error
-* MSE — Mean Squared Error
-* R² — Coefficient de détermination
+* **MAE — Mean Absolute Error**
+* **MSE — Mean Squared Error**
+* **R² — Coefficient de détermination**
 
 Ces indicateurs permettent de comparer les performances des modèles et d'apprécier leur capacité à expliquer ou prédire la variable étudiée.
 
@@ -177,7 +177,7 @@ portfolio_dataviz/
 │   ├── 01_accueil.png
 │   └── 02_analyse_exploratoire_1.png
 │   └── 06_econometrie_1.png
-│	 └── 09_machine_learning_1.png
+│   └── 09_machine_learning_1.png
 │
 ├── 📄 README.md
 ├── 📄 code_interface_dataviz.py
