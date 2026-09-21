@@ -136,10 +136,11 @@ L'interface permet notamment d'étudier les relations entre les variables numér
 ### Statistiques descriptives
 
 ![Analyse exploratoire](captures/02_analyse_exploratoire_1.png)
+![Analyse exploratoire](captures/05_analyse_exploratoire_4.png)
 
 ### Econométrie
 
-![Analyse économétrique](captures/06_économétrie_1.png)
+![Analyse économétrique](captures/06_econometrie_1.png)
 
 ### Prédiction avec Machine learning 
 
