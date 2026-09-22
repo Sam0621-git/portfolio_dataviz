@@ -8,6 +8,33 @@ Le projet intègre une interface interactive développée avec **Streamlit**, pe
 
 L'objectif est de mettre en œuvre une démarche complète de Data Analysis et Data Science, depuis la préparation des données jusqu'à la restitution des résultats dans une interface accessible.
 
+## Contexte
+
+Ce projet s'inscrit dans le cadre du cours de Big Data Analytics Project (BDAP) de l'Université de Montpellier.
+
+L'objectif de l'étude est d'analyser les facteurs influençant la durée de traitement des dossiers d'assistance et de développer un modèle prédictif permettant d'estimer cette durée.
+
+Les données exploitées proviennent de plusieurs sources métier regroupant des informations relatives aux dossiers, aux ressources mobilisées et aux temps de traitement.
+
+### Données utilisées
+
+* Données de dossiers d'assistance
+* Données relatives aux ressources humaines mobilisées
+* Données temporelles associées aux interventions
+
+### Volumétrie
+
+* Plus de 100 000 observations exploitées
+* Plusieurs variables explicatives quantitatives et qualitatives
+* Base consolidée après fusion de plusieurs jeux de données
+
+### Enjeux métier
+
+* Réduction des délais de traitement
+* Optimisation de l'affectation des ressources
+* Amélioration de la qualité de service
+* Aide à la décision opérationnelle
+
 ---
 
 ## 🎯 Objectifs
