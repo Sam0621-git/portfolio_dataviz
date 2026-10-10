@@ -359,7 +359,7 @@ L'objectif est de transformer des données en informations utiles à l'analyse, 
 
 Pour toute information concernant le projet, les méthodes utilisées ou une collaboration autour de projets d'analyse statistique et de données, vous pouvez me contacter par les canaux ci-après :
 
-- [💼 LinkedIn](www.linkedin.com/in/samson-yehouenou)
+- [💼 LinkedIn](https://www.linkedin.com/in/samson-yehouenou)
 - [💻 GitHub](https://github.com/Sam0621-git)
 - ✉️ `odilonyehouenou2@gmail.com`
 
